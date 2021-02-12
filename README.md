@@ -1,6 +1,5 @@
 # CCA5: CMIMC AI Round
 
-CCA5's code for CMIMC 2021 AI Round
 Source code available at [Abstrqt/CMIMC2021AI](https://github.com/Abstrqt/CMIMC2021AI)
 
 Overview:
