@@ -168,7 +168,7 @@ At the end of the game, your score will be calculated as your winding number - t
 
 ### Strategy
 
-Our strategy was a greedy algorithm that had our spaceship orbit close to the sun and assumed that other players had a collision detection algorithm. This, in theory, allowed us to basically "play chicken" and go where other bots would avoid, allowing us to have a shorter orbit distance around the sun. In retrospect, this wasn't that good because many other bots didn't really have a detection algorithm and our ship would suffer numerous collisions, which hurt our performance. 
+Our strategy was a greedy algorithm that had our spaceship orbit close to the sun and assumed that other players had a collision detection algorithm. This, in theory, allowed us to basically "play chicken" and go where other bots would avoid, allowing us to have a shorter orbit distance around the sun. In retrospect, this wasn't that good because many other bots didn't really have a detection algorithm and our ship would suffer numerous collisions, which affected our performance. Our results were very varied, some being very high and others being very low, which resulted in our rating fluctuating a lot.
 
 ### Results
 
